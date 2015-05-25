@@ -10,5 +10,8 @@
     "learning"
   ],
   "author": "Joan ORTEGA",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.0.31"
+  }
 }
