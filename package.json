@@ -12,6 +12,9 @@
   "author": "Joan ORTEGA",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.0.31"
+    "bluebird": "^2.9.26",
+    "lodash": "^3.9.2",
+    "mongodb": "^2.0.31",
+    "mongoose": "^4.0.3"
   }
 }
